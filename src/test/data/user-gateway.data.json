@@ -1,0 +1,70 @@
+{
+    "find": [
+        {
+            "_id": "604e4b07f11dd9cfa6f8c41e",
+            "name": "Leanne Graham",
+            "password": "$2b$10$v1p9.Hdcd0QR.XQU1POMFOiY3TqhrWQN9oF.zg00YC/IycL5dYS.K",
+            "username": "Bret",
+            "email": "Sincere@april.biz",
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "__v": 0
+        },
+        {
+            "_id": "60541ebcab03eea3a4215962",
+            "email": "joseluiscandia.f@gmail.com",
+            "password": "$2b$10$p0z01G8ywZmPDfaXDBt2C.C1L/PAD8nvXODbruPrsxhLmtV7KKdk6",
+            "name": "",
+            "username": "",
+            "phone": "",
+            "website": "",
+            "__v": 0
+        },
+        {
+            "_id": "60541ee7791bdaa3b2b3c457",
+            "email": "joseluiscandia2.f@gmail.com",
+            "password": "$2b$10$dBr9Wgc8eX6Z7QZN9/PCduD1j4ZF.I.ZZ4CGqsCzVufP4W70i03t2",
+            "name": "",
+            "username": "",
+            "phone": "",
+            "website": "",
+            "__v": 0
+        },
+        {
+            "_id": "60541f4784576ca3d7b37ca2",
+            "email": "joseluiscandia3.f@gmail.com",
+            "password": "$2b$10$9fddk6L7KyqjkchzY2rF5.4s.aIjcW54maX3cOPC8RtlqQ2SfiG7O",
+            "name": "",
+            "username": "",
+            "phone": "",
+            "website": "",
+            "__v": 0
+        },
+        {
+            "_id": "60541f737d8258a3f3aac939",
+            "email": "joseluiscandia4.f@gmail.com",
+            "password": "$2b$10$qs2r69D8g97t/FKZhfS7r.iu9LcOOIalwuYyTjW0j/EVEZH3qDdVW",
+            "name": "",
+            "username": "",
+            "phone": "",
+            "website": "",
+            "__v": 0
+        },
+        {
+            "_id": "605422024499e7a64249de2f",
+            "password": "123123",
+            "email": "Sincere@aprill.biz",
+            "__v": 0
+        }
+    ],
+    "findOne": {
+        "_id": "604e4b07f11dd9cfa6f8c41e",
+        "name": "Leanne Graham",
+        "password": "$2b$10$v1p9.Hdcd0QR.XQU1POMFOiY3TqhrWQN9oF.zg00YC/IycL5dYS.K",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
+        "__v": 0
+    }
+}

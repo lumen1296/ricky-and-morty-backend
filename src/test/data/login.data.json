@@ -1,0 +1,10 @@
+{
+    "data": {
+        "user": {
+            "email": "usertest@gmail.com",
+            "name": "",
+            "username": ""
+        },
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Impvc2VsdWlzY2FuZGlhLmZAZ21haWwuY29tIiwibmFtZSI6IiIsInVzZXJuYW1lIjoiIiwiaWF0IjoxNjE2MzY1MTgwLCJleHAiOjE2MTYzNjUyNDB9.rVmP8vWv-2Se4Ntyh7sxKJMOonf8X9binf_IGmWUjZQ"
+    }
+}
